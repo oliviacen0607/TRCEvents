@@ -2,9 +2,12 @@ name: Update TRC Connection + Guest Hour Calendar
 
 on:
   schedule:
-    - cron: "44 2 * * *"   
+    - cron: "50 2 * * *"   
   workflow_dispatch:       # lets you trigger manually if needed
 
+permissions:
+  contents: write
+  
 jobs:
   build:
     runs-on: ubuntu-latest
