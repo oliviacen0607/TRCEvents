@@ -177,7 +177,7 @@ print(f"TOTAL FILTERED EVENTS : {filtered_event_count}")
 folder = r"C:\Users\ocen\Desktop\Integration\Calendar"
 
 output_path = os.path.join(
-    folder,
+    os.path.dirname(__file__),
     "filtered_rockgym_events.ics"
 )
 
