@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:TRC Durham Member Guest Hours
 DTSTART:20260809T220000Z
 DTEND:20260810T010000Z
-DTSTAMP:20260508T145108Z
+DTSTAMP:20260509T141635Z
 UID:e0214ef6c42b248f7b5c2869866bb1f681347852_1
 CATEGORIES:TRC Durham
 DESCRIPTION:Come and climb while the gym is closed to the public! Members 
@@ -17,13 +17,13 @@ DESCRIPTION:Come and climb while the gym is closed to the public! Members
  p-rope belay.
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=bc92
  33bb1c504e96a69def362387eba6&amp;widget_guid=0d6c7fa257084fd3b9628ca1759d8
- 8eb&amp;random=69fdf85c0ab58&amp;iframeid=&amp;mode=e
+ 8eb&amp;random=69ff41c3406e6&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Durham Member Guest Hours
 DTSTART:20260712T220000Z
 DTEND:20260713T010000Z
-DTSTAMP:20260508T145108Z
+DTSTAMP:20260509T141635Z
 UID:e0214ef65bc170f1d27f4bc9b6fb3aa24be51430_1
 CATEGORIES:TRC Durham
 DESCRIPTION:Come and climb while the gym is closed to the public! Members 
@@ -35,13 +35,13 @@ DESCRIPTION:Come and climb while the gym is closed to the public! Members
  p-rope belay.
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=bc92
  33bb1c504e96a69def362387eba6&amp;widget_guid=0d6c7fa257084fd3b9628ca1759d8
- 8eb&amp;random=69fdf85c0ab88&amp;iframeid=&amp;mode=e
+ 8eb&amp;random=69ff41c34071f&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Durham Member Guest Hours
 DTSTART:20260510T220000Z
 DTEND:20260511T010000Z
-DTSTAMP:20260508T145108Z
+DTSTAMP:20260509T141635Z
 UID:e0214ef687164392f139666877f4328f069092b6_1
 CATEGORIES:TRC Durham
 DESCRIPTION:Come and climb while the gym is closed to the public! Members 
@@ -53,13 +53,13 @@ DESCRIPTION:Come and climb while the gym is closed to the public! Members
  p-rope belay.
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=bc92
  33bb1c504e96a69def362387eba6&amp;widget_guid=0d6c7fa257084fd3b9628ca1759d8
- 8eb&amp;random=69fdf85c0abaa&amp;iframeid=&amp;mode=e
+ 8eb&amp;random=69ff41c340744&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Durham Member Guest Hours
 DTSTART:20260614T220000Z
 DTEND:20260615T010000Z
-DTSTAMP:20260508T145108Z
+DTSTAMP:20260509T141635Z
 UID:e0214ef6d6c1984762e6d10194cd76d0a847beed_1
 CATEGORIES:TRC Durham
 DESCRIPTION:Come and climb while the gym is closed to the public! Members 
@@ -71,13 +71,31 @@ DESCRIPTION:Come and climb while the gym is closed to the public! Members
  p-rope belay.
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=bc92
  33bb1c504e96a69def362387eba6&amp;widget_guid=0d6c7fa257084fd3b9628ca1759d8
- 8eb&amp;random=69fdf85c0abcb&amp;iframeid=&amp;mode=e
+ 8eb&amp;random=69ff41c340766&amp;iframeid=&amp;mode=e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRC Durham Member Guest Hours
+DTSTART:20260913T220000Z
+DTEND:20260914T010000Z
+DTSTAMP:20260509T141635Z
+UID:e0214ef6a48ff37a1e0a580743b8665911659716_1
+CATEGORIES:TRC Durham
+DESCRIPTION:Come and climb while the gym is closed to the public! Members 
+ can bring one guest and it will not count against your monthly guest pass.
+  Additional guests may visit by using your regular monthly guest pass\, fi
+ rst time guest pass\, or with the purchase of a Day Pass. Rental gear will
+  be provided for anyone using a guest pass and we&amp\;rsquo\;ll be runnin
+ g complementary belay clinics for anyone who would like to learn how to to
+ p-rope belay.
+URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=bc92
+ 33bb1c504e96a69def362387eba6&amp;widget_guid=0d6c7fa257084fd3b9628ca1759d8
+ 8eb&amp;random=69ff41c340787&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Morrisville Member Guest Hours
 DTSTART:20260517T220000Z
 DTEND:20260518T010000Z
-DTSTAMP:20260508T145108Z
+DTSTAMP:20260509T141635Z
 UID:c9d247ef0236e9b76015be8c99e722b8f9984190_1
 CATEGORIES:TRC Morrisville
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -89,13 +107,13 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=1c3f
  f774d3a6455d90f5c83de508bf44&amp;widget_guid=ff72f7c8859742ada90d47dfdf1bb
- b97&amp;random=69fdf85cab9f0&amp;iframeid=&amp;mode=e
+ b97&amp;random=69ff41c39905f&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Morrisville Member Guest Hours
 DTSTART:20260719T220000Z
 DTEND:20260720T010000Z
-DTSTAMP:20260508T145108Z
+DTSTAMP:20260509T141635Z
 UID:c9d247ef2a1eec7bf62ce5d545ee813489df751c_1
 CATEGORIES:TRC Morrisville
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -107,13 +125,13 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=1c3f
  f774d3a6455d90f5c83de508bf44&amp;widget_guid=ff72f7c8859742ada90d47dfdf1bb
- b97&amp;random=69fdf85caba17&amp;iframeid=&amp;mode=e
+ b97&amp;random=69ff41c399086&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Morrisville Member Guest Hours
 DTSTART:20261018T220000Z
 DTEND:20261019T010000Z
-DTSTAMP:20260508T145108Z
+DTSTAMP:20260509T141635Z
 UID:c9d247ef39b31bb0a923f8ce429d3be930b9b64c_1
 CATEGORIES:TRC Morrisville
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -125,13 +143,13 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=1c3f
  f774d3a6455d90f5c83de508bf44&amp;widget_guid=ff72f7c8859742ada90d47dfdf1bb
- b97&amp;random=69fdf85caba3a&amp;iframeid=&amp;mode=e
+ b97&amp;random=69ff41c3990a9&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Morrisville Member Guest Hours
 DTSTART:20260816T220000Z
 DTEND:20260817T010000Z
-DTSTAMP:20260508T145108Z
+DTSTAMP:20260509T141635Z
 UID:c9d247effb8c3215ff775b4ef97929ff15d4c634_1
 CATEGORIES:TRC Morrisville
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -143,13 +161,13 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=1c3f
  f774d3a6455d90f5c83de508bf44&amp;widget_guid=ff72f7c8859742ada90d47dfdf1bb
- b97&amp;random=69fdf85caba5c&amp;iframeid=&amp;mode=e
+ b97&amp;random=69ff41c3990cb&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Morrisville Member Guest Hours
 DTSTART:20260621T220000Z
 DTEND:20260622T010000Z
-DTSTAMP:20260508T145108Z
+DTSTAMP:20260509T141635Z
 UID:c9d247efac430f8d66f3a24faac9f32093722bb3_1
 CATEGORIES:TRC Morrisville
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -161,13 +179,13 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=1c3f
  f774d3a6455d90f5c83de508bf44&amp;widget_guid=ff72f7c8859742ada90d47dfdf1bb
- b97&amp;random=69fdf85caba7e&amp;iframeid=&amp;mode=e
+ b97&amp;random=69ff41c3990ec&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Morrisville Member Guest Hours
 DTSTART:20260920T220000Z
 DTEND:20260921T010000Z
-DTSTAMP:20260508T145108Z
+DTSTAMP:20260509T141635Z
 UID:c9d247efaf30ce7b37ca8a4fab56dded8e75d203_1
 CATEGORIES:TRC Morrisville
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -179,13 +197,13 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=1c3f
  f774d3a6455d90f5c83de508bf44&amp;widget_guid=ff72f7c8859742ada90d47dfdf1bb
- b97&amp;random=69fdf85caba9e&amp;iframeid=&amp;mode=e
+ b97&amp;random=69ff41c39910d&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Morrisville Climbing Connections
 DTSTART:20260602T220000Z
 DTEND:20260603T000000Z
-DTSTAMP:20260508T145108Z
+DTSTAMP:20260509T141635Z
 UID:c9d247eff579bf5552bfcef191520979b28de85c_1
 CATEGORIES:TRC Morrisville
 DESCRIPTION:Price:	Free for members and one guest (doesn&amp\;rsquo\;t cou
@@ -193,13 +211,32 @@ DESCRIPTION:Price:	Free for members and one guest (doesn&amp\;rsquo\;t cou
  n-Members
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=013d
  936a0b9d487e920f735ede381e0b&amp;widget_guid=ff72f7c8859742ada90d47dfdf1bb
- b97&amp;random=69fdf85cacd37&amp;iframeid=&amp;mode=e
+ b97&amp;random=69ff41c39a001&amp;iframeid=&amp;mode=e
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TRC Raleigh Member Guest Hours
+DTSTART:20260802T220000Z
+DTEND:20260803T010000Z
+DTSTAMP:20260509T141636Z
+UID:9c60737837175e1e3ebe330cad145e044d9367fe_1
+CATEGORIES:TRC Raleigh
+DESCRIPTION:Come climb while the gym is closed to the public! This is a sp
+ ecial event for members and their guests. Members may bring one guest that
+  does not count against your monthly guest pass. (Additional guests with y
+ our regular monthly guest pass\, first time guest pass or with the purchas
+ e of a Day Pass are welcome). Rental gear will be provided for anyone usin
+ g a guest pass and we&amp\;rsquo\;ll be running complementary belay clinic
+ s for anyone who would like to learn how to top-rope belay. Light refreshm
+ ents will be provided!&amp\;nbsp\;
+URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=3cb3
+ 0a4d3edb408c86e31390bd041de4&amp;widget_guid=7fa510dd88f746378b4e0d79da753
+ e70&amp;random=69ff41c410ad1&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Raleigh Member Guest Hours
 DTSTART:20260705T220000Z
 DTEND:20260706T010000Z
-DTSTAMP:20260508T145109Z
+DTSTAMP:20260509T141636Z
 UID:9c607378901a1a5719a9436fc061a932ea69dc63_1
 CATEGORIES:TRC Raleigh
 DESCRIPTION:Come climb while the gym is closed to the public! This is a sp
@@ -212,13 +249,13 @@ DESCRIPTION:Come climb while the gym is closed to the public! This is a sp
  ents will be provided!&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=3cb3
  0a4d3edb408c86e31390bd041de4&amp;widget_guid=7fa510dd88f746378b4e0d79da753
- e70&amp;random=69fdf85d3ee77&amp;iframeid=&amp;mode=e
+ e70&amp;random=69ff41c410b06&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Raleigh Member Guest Hours
 DTSTART:20260607T220000Z
 DTEND:20260608T010000Z
-DTSTAMP:20260508T145109Z
+DTSTAMP:20260509T141636Z
 UID:9c607378979578e2108bb12c631a3c3bc6ffd60f_1
 CATEGORIES:TRC Raleigh
 DESCRIPTION:Come climb while the gym is closed to the public! This is a sp
@@ -231,13 +268,13 @@ DESCRIPTION:Come climb while the gym is closed to the public! This is a sp
  ents will be provided!&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=3cb3
  0a4d3edb408c86e31390bd041de4&amp;widget_guid=7fa510dd88f746378b4e0d79da753
- e70&amp;random=69fdf85d3eeae&amp;iframeid=&amp;mode=e
+ e70&amp;random=69ff41c410b2b&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Salvage Yard Climbing Connections
 DTSTART:20260523T170000Z
 DTEND:20260523T190000Z
-DTSTAMP:20260508T145109Z
+DTSTAMP:20260509T141636Z
 UID:5566ca84c8dab5d96b616a1c922dd178bd2cf9db_1
 CATEGORIES:TRC Salvage Yard
 DESCRIPTION:Price:	Free for members and one guest (doesn&amp\;rsquo\;t cou
@@ -246,13 +283,13 @@ DESCRIPTION:Price:	Free for members and one guest (doesn&amp\;rsquo\;t cou
  ded!
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=1916
  7308ee384357a947aee376fc06ec&amp;widget_guid=8a61329b24414b9e9f5313d64661c
- 0c8&amp;random=69fdf85dc6bf3&amp;iframeid=&amp;mode=e
+ 0c8&amp;random=69ff41c46f36a&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Salvage Yard Climbing Connections
 DTSTART:20260725T170000Z
 DTEND:20260725T190000Z
-DTSTAMP:20260508T145109Z
+DTSTAMP:20260509T141636Z
 UID:5566ca84c69dff1930d05e48b299ea28bd2f3c75_1
 CATEGORIES:TRC Salvage Yard
 DESCRIPTION:Price:	Free for members and one guest (doesn&amp\;rsquo\;t cou
@@ -261,13 +298,13 @@ DESCRIPTION:Price:	Free for members and one guest (doesn&amp\;rsquo\;t cou
  ded!
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=1916
  7308ee384357a947aee376fc06ec&amp;widget_guid=8a61329b24414b9e9f5313d64661c
- 0c8&amp;random=69fdf85dc6c18&amp;iframeid=&amp;mode=e
+ 0c8&amp;random=69ff41c46f3a3&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Salvage Yard Climbing Connections
 DTSTART:20260627T170000Z
 DTEND:20260627T190000Z
-DTSTAMP:20260508T145109Z
+DTSTAMP:20260509T141636Z
 UID:5566ca8480d837e1f31ac847d93b5af45770b0ef_1
 CATEGORIES:TRC Salvage Yard
 DESCRIPTION:Price:	Free for members and one guest (doesn&amp\;rsquo\;t cou
@@ -276,13 +313,13 @@ DESCRIPTION:Price:	Free for members and one guest (doesn&amp\;rsquo\;t cou
  ded!
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=1916
  7308ee384357a947aee376fc06ec&amp;widget_guid=8a61329b24414b9e9f5313d64661c
- 0c8&amp;random=69fdf85dc6c30&amp;iframeid=&amp;mode=e
+ 0c8&amp;random=69ff41c46f3c5&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Salvage Yard Member Guest Hours
 DTSTART:20260726T220000Z
 DTEND:20260727T010000Z
-DTSTAMP:20260508T145109Z
+DTSTAMP:20260509T141636Z
 UID:5566ca8404919f10a2bdc264841d7ad10c41dd6a_1
 CATEGORIES:TRC Salvage Yard
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -294,13 +331,13 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=c749
  ee4e13944a87a30d4d5d33397dbb&amp;widget_guid=8a61329b24414b9e9f5313d64661c
- 0c8&amp;random=69fdf85dc7cca&amp;iframeid=&amp;mode=e
+ 0c8&amp;random=69ff41c470cce&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Salvage Yard Member Guest Hours
 DTSTART:20260628T220000Z
 DTEND:20260629T010000Z
-DTSTAMP:20260508T145109Z
+DTSTAMP:20260509T141636Z
 UID:5566ca84d25f874c9aff4574cc74a008703f6ef0_1
 CATEGORIES:TRC Salvage Yard
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -312,13 +349,13 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=c749
  ee4e13944a87a30d4d5d33397dbb&amp;widget_guid=8a61329b24414b9e9f5313d64661c
- 0c8&amp;random=69fdf85dc7ce2&amp;iframeid=&amp;mode=e
+ 0c8&amp;random=69ff41c470cf3&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Salvage Yard Member Guest Hours
 DTSTART:20260927T220000Z
 DTEND:20260928T010000Z
-DTSTAMP:20260508T145109Z
+DTSTAMP:20260509T141636Z
 UID:5566ca84887ffd93a5ee5b0848e12c9d3b710e6e_1
 CATEGORIES:TRC Salvage Yard
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -330,13 +367,13 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=c749
  ee4e13944a87a30d4d5d33397dbb&amp;widget_guid=8a61329b24414b9e9f5313d64661c
- 0c8&amp;random=69fdf85dc7cf9&amp;iframeid=&amp;mode=e
+ 0c8&amp;random=69ff41c470d15&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Salvage Yard Member Guest Hours
 DTSTART:20261025T220000Z
 DTEND:20261026T010000Z
-DTSTAMP:20260508T145109Z
+DTSTAMP:20260509T141636Z
 UID:5566ca849f311482567969107d5590b23513b1c7_1
 CATEGORIES:TRC Salvage Yard
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -348,13 +385,13 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=c749
  ee4e13944a87a30d4d5d33397dbb&amp;widget_guid=8a61329b24414b9e9f5313d64661c
- 0c8&amp;random=69fdf85dc7d10&amp;iframeid=&amp;mode=e
+ 0c8&amp;random=69ff41c470d3a&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Salvage Yard Member Guest Hours
 DTSTART:20260823T220000Z
 DTEND:20260824T010000Z
-DTSTAMP:20260508T145109Z
+DTSTAMP:20260509T141636Z
 UID:5566ca842c58817cb5a0d5026680dc8dfb367b5d_1
 CATEGORIES:TRC Salvage Yard
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -366,13 +403,13 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=c749
  ee4e13944a87a30d4d5d33397dbb&amp;widget_guid=8a61329b24414b9e9f5313d64661c
- 0c8&amp;random=69fdf85dc7d27&amp;iframeid=&amp;mode=e
+ 0c8&amp;random=69ff41c470d5c&amp;iframeid=&amp;mode=e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TRC Salvage Yard Member Guest Hours
 DTSTART:20260524T220000Z
 DTEND:20260525T010000Z
-DTSTAMP:20260508T145109Z
+DTSTAMP:20260509T141636Z
 UID:5566ca84245f63afbec1a8e0100b19af035d96b8_1
 CATEGORIES:TRC Salvage Yard
 DESCRIPTION:This is a special event for members and their guests. Members 
@@ -384,6 +421,6 @@ DESCRIPTION:This is a special event for members and their guests. Members
  pe belay. Light refreshments will be provided!&amp\;nbsp\;&amp\;nbsp\;
 URL:https://app.rockgympro.com/b/widget/?a=offering&amp;offering_guid=c749
  ee4e13944a87a30d4d5d33397dbb&amp;widget_guid=8a61329b24414b9e9f5313d64661c
- 0c8&amp;random=69fdf85dc7d3d&amp;iframeid=&amp;mode=e
+ 0c8&amp;random=69ff41c470d7d&amp;iframeid=&amp;mode=e
 END:VEVENT
 END:VCALENDAR
